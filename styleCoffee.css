@@ -126,24 +126,6 @@ h4 {
     width: 100px;
     height: 100px;
 }
-li {
-    background-color: aliceblue;
-    font-weight: bold;
-    font-family: 'Baskerville Old Face';
-    border: unset;
-    color: darkblue;
-    padding: 20px 30px;
-    text-align: center;
-    text-decoration: blink;
-    display: inline-flex;
-    font-size: 30px;
-    margin: 30px 10px;
-    cursor: ns-resize;
-    border-radius: 10px;
-    text-decoration: none;
-    display: inline flex;
-    list-style: none;
-}
 
 button, .btn{
      color: white;
